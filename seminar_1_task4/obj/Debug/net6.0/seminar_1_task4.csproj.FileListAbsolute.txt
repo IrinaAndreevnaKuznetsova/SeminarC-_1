@@ -1,0 +1,15 @@
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/bin/Debug/net6.0/seminar_1_task4
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/bin/Debug/net6.0/seminar_1_task4.deps.json
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/bin/Debug/net6.0/seminar_1_task4.runtimeconfig.json
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/bin/Debug/net6.0/seminar_1_task4.dll
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/bin/Debug/net6.0/seminar_1_task4.pdb
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.csproj.AssemblyReference.cache
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.AssemblyInfoInputs.cache
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.AssemblyInfo.cs
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.csproj.CoreCompileInputs.cache
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.dll
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/refint/seminar_1_task4.dll
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.pdb
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/seminar_1_task4.genruntimeconfig.cache
+/Users/irinakuznecova/Desktop/Новая папка/les/seminar_1_task4/obj/Debug/net6.0/ref/seminar_1_task4.dll
